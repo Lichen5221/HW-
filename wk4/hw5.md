@@ -16,10 +16,10 @@
 
 Base URL: https://test.api.com
 
-說明｜Method｜path｜參數
--------------|-------------
-所有餐廳資料｜GET|/cooks|_limit: n
-單一餐廳資料｜GET|/cooks/:id|無
-刪除餐廳｜DELETE|/cooks/:id|name
-新增餐廳｜POST|/cooks/|無
-更改餐廳｜PATCH|/cooks/:id|name
+說明 | Method | path | 參數
+--- | --- | --- | ---
+所有餐廳資料 | GET | /cooks | _limit: n
+單一餐廳資料 | GET | /cooks/:id | 無
+刪除餐廳 | DELETE | /cooks/:id | name
+新增餐廳 | POST | /cooks/ | 無
+更改餐廳 | PATCH | /cooks/:id | name
